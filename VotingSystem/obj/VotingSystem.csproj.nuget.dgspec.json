@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/saif.alru/VisualStudio/VotingSystemApp/VotingSystem/VotingSystem.csproj": {}
+  },
+  "projects": {
+    "/Users/saif.alru/VisualStudio/VotingSystemApp/VotingSystem/VotingSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/saif.alru/VisualStudio/VotingSystemApp/VotingSystem/VotingSystem.csproj",
+        "projectName": "VotingSystem",
+        "projectPath": "/Users/saif.alru/VisualStudio/VotingSystemApp/VotingSystem/VotingSystem.csproj",
+        "packagesPath": "/Users/saif.alru/.nuget/packages/",
+        "outputPath": "/Users/saif.alru/VisualStudio/VotingSystemApp/VotingSystem/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/saif.alru/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
