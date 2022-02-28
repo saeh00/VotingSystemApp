@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{37D81DEE-2001-4EFF-A1EB-D6CA68167D7F}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.VotingSystem PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VotingSystem/Views/Home/Privacy.cshtml">
+    <Files>
+      <File FileName="VotingSystem/Views/Home/Privacy.cshtml" Line="9" Column="1" />
+      <File FileName="VotingSystem/Controllers/HomeController.cs" Line="23" Column="35" />
+      <File FileName="VotingSystem/Views/Home/Index.cshtml" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VotingSystemApp" expanded="True">
+            <Node name="VotingSystem" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
